@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Bekant)(type Legacy)(uri ${KIPRJMOD}/Bekant.lib)(options "")(descr ""))
+  (lib (name Bekant-rescue)(type Legacy)(uri ${KIPRJMOD}/Bekant-rescue.lib)(options "")(descr ""))
+)
